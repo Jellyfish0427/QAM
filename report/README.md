@@ -4,10 +4,10 @@ Quadrature Amplitude Modulation (QAM) is a modulation technique that uses both a
 ### Method
 This experiment involves creating a MATLAB simulation program for 16-QAM and using the Monte Carlo method to estimate the bit error rate (BER). It is then extended to develop a simulation program for 64-QAM, and a comparative analysis is conducted between the two. To calculate the error rate, we first set the Signal-to-Noise Ratio (SNR) in decibels, one for use in simulations and another for theoretical calculations. Next, we generate a data source corresponding to the constellation diagram.
 
-- 16-QAM constellation diagram
+- 16-QAM constellation diagram  
 ![image](https://user-images.githubusercontent.com/128220508/226310112-3ea5057b-5f2b-49d1-bfeb-c9f7f8ec4ff4.png)  
 
-- 64-QAM constellation diagram
+- 64-QAM constellation diagram  
 ![image](https://user-images.githubusercontent.com/128220508/226310578-3f4d0d15-8110-4ce0-91aa-425578357599.png)  
 
 - Matlab creates a 16-QAM constellation diagram
